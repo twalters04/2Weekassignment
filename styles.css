@@ -1,31 +1,28 @@
 
-        body {background-color:grey
-
-        }
-            h1{ color:black; }
+            ul,li { color:black;}
             
-            ul { color:black;}
+            h1,h2{color:black;}
             
-            h2 { color:black;}
-
-            li{ color:black;}
-
-            
-            h1{color:black;}
             form{color:black;}
-            h2{color:black;}
-
-            table{border-collapse: collapse; width: 700px;
+           
+            #table{border-collapse: collapse; width: 700px;
             border-bottom: solid;}
             
-            td,th{text-align: center; 
+             th{text-align: center; 
                   padding: 8px;
                   border-bottom: solid;
                   border-top: solid;
                   border-left: solid;
-                  border-right: solid;
+                  border-right: solid;}
 
-         
+           #setting{background-color: grey;}
+
+
+           }
+
+      
+
+      
             }
 
 
