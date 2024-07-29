@@ -1,29 +1,12 @@
 
-            ul,li { color:black;}
-            
-            h1,h2{color:black;}
-            
-            form{color:black;}
+#settings{background-color: grey;color: grey;}
+
            
-            #table{border-collapse: collapse; width: 700px;
-            border-bottom: solid;}
+
+      
+
+      
             
-             th{text-align: center; 
-                  padding: 8px;
-                  border-bottom: solid;
-                  border-top: solid;
-                  border-left: solid;
-                  border-right: solid;}
-
-           #setting{background-color: grey;}
-
-
-           }
-
-      
-
-      
-            }
 
 
 
